@@ -152,22 +152,18 @@
         text-align: center;
     }
 
+
+    /* Footer Section  */
+
+
     .main-footer {
-        flex-direction: column;
+        display: flex;
         text-align: center;
-
-    }
-
-    .link {
-        width: 100%;
-    }
-
-    .link-column {
-
-
+        flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+
 
 
 
